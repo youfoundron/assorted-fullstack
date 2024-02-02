@@ -1,5 +1,5 @@
 # Assorted Fullstack
-Fullstack things that don't hurt to use.
+Fullstack things that don't hurt to use
 
 ## Back End
 
@@ -18,7 +18,7 @@ Frameworks and base styles
 * [PicoCSS](https://picocss.com/) - Minimal CSS Framework for semantic HTML
 
 ### React
-A grab-bag of components and tools that make React well... less worse.
+A grab-bag of components and tools that make React well... less worse
 
 * [React Wrap Balancer](https://github.com/shuding/react-wrap-balancer) - Make titles more readable
 * [Sonner](https://github.com/emilkowalski/sonner) - Toast component
