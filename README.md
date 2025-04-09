@@ -9,8 +9,11 @@ Fullstack things that don't hurt to use
 * [tsx](https://tsx.is/) - TypeScript runtime
 * [Vite](https://vite.dev/) - Front-end bundler and dev server
 #### Secrets Management
-* [dotenvx](https://dotenvx.com/) - a better dotenv
-* [@wetlab/from-env-factory](https://github.com/labwet/from-env-factory) - function that builds env var getters 
+* [dotenvx](https://dotenvx.com/) - A better dotenv
+* [@wetlab/from-env-factory](https://github.com/labwet/from-env-factory) - Function that builds env var getters 
+#### Serverless
+* [Cloudflare Workers](https://workers.cloudflare.com/) - Deploy serverless code instantly
+* [@cloudflare/vite-plugin](https://developers.cloudflare.com/workers/vite-plugin/) - Full-featured integration between Vite and the Workers runtime
 
 ## Back End
 #### API
@@ -37,6 +40,7 @@ Fullstack things that don't hurt to use
 * [clsx](https://github.com/lukeed/clsx) - Lib for conditional class name construction
 * [Fancy Components](https://www.fancycomponents.dev/) - Microinteraction component library
 * [HeroUI](https://www.heroui.com) - Tailwind-friendly component library
+* [React Router](https://reactrouter.com/) - Standards focused router for React
 * [React Wrap Balancer](https://github.com/shuding/react-wrap-balancer) - Make titles more readable
 * [simpleParallax](https://simpleparallax.com/) - Add parallax animations to any image
 * [Sonner](https://github.com/emilkowalski/sonner) - Toast component
