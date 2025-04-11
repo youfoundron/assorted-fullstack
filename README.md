@@ -15,7 +15,7 @@ Fullstack things that don't hurt to use
 ## Back End
 #### API
 * [gql.tada](https://gql-tada.0no.co/) - On-the-fly, automatically typed GraphQL documents
-* [Hono](https://hono.dev/) - Web API framework with support for many runtimes
+* [Hono](https://hono.dev/) - Web API framework with support for multiple js runtimes
 * [Kysely](https://github.com/kysely-org/kysely) - SQL query builder
 * [tRPC](https://trpc.io/) - Build Typesafe APIs
 * [wretch](https://github.com/elbywan/wretch) - Isomorphic fetch
