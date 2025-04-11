@@ -4,6 +4,7 @@ Fullstack things that don't hurt to use
 ## Tooling
 #### Build Tools & Runtimes
 * [Biome](https://biomejs.dev/) - Format, lint, and more in a fraction of a second
+* [Hono](https://hono.dev/) - Web API framework with support for many runtimes
 * [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications
 * [tsup](https://tsup.egoist.dev/) - Bundle your TypeScript library with no config
 * [tsx](https://tsx.is/) - TypeScript runtime
