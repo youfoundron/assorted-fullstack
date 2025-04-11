@@ -4,14 +4,10 @@ Fullstack things that don't hurt to use
 ## Tooling
 #### Build Tools & Runtimes
 * [Biome](https://biomejs.dev/) - Format, lint, and more in a fraction of a second
-* [Hono](https://hono.dev/) - Web API framework with support for many runtimes
 * [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications
 * [tsup](https://tsup.egoist.dev/) - Bundle your TypeScript library with no config
 * [tsx](https://tsx.is/) - TypeScript runtime
 * [Vite](https://vite.dev/) - Front-end bundler and dev server
-#### Secrets Management
-* [dotenvx](https://dotenvx.com/) - A better dotenv
-* [@wetlab/from-env-factory](https://github.com/labwet/from-env-factory) - Function that builds env var getters 
 #### Serverless
 * [Cloudflare Workers](https://workers.cloudflare.com/) - Deploy serverless code instantly
 * [@cloudflare/vite-plugin](https://developers.cloudflare.com/workers/vite-plugin/) - Full-featured integration between Vite and the Workers runtime
@@ -19,9 +15,13 @@ Fullstack things that don't hurt to use
 ## Back End
 #### API
 * [gql.tada](https://gql-tada.0no.co/) - On-the-fly, automatically typed GraphQL documents
+* [Hono](https://hono.dev/) - Web API framework with support for many runtimes
 * [Kysely](https://github.com/kysely-org/kysely) - SQL query builder
 * [tRPC](https://trpc.io/) - Build Typesafe APIs
 * [wretch](https://github.com/elbywan/wretch) - Isomorphic fetch
+#### Secrets Management
+* [dotenvx](https://dotenvx.com/) - A better dotenv
+* [@wetlab/from-env-factory](https://github.com/labwet/from-env-factory) - Function that builds env var getters 
 
 ## Front End
 #### CSS Frameworks & Base-Styles
