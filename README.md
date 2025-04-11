@@ -2,8 +2,10 @@
 Fullstack things that don't hurt to use
 
 ## Tooling
-#### Build Tools & Runtimes
+#### Frameworks, Build Tools & Runtimes
 * [Biome](https://biomejs.dev/) - Format, lint, and more in a fraction of a second
+* [Bun](https://bun.sh/) - Javascript & Typescript runtime
+* [One](https://onestack.dev/) - Unified framework for Web + Native using React
 * [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications
 * [tsup](https://tsup.egoist.dev/) - Bundle your TypeScript library with no config
 * [tsx](https://tsx.is/) - TypeScript runtime
@@ -19,6 +21,7 @@ Fullstack things that don't hurt to use
 * [Kysely](https://github.com/kysely-org/kysely) - SQL query builder
 * [tRPC](https://trpc.io/) - Build Typesafe APIs
 * [wretch](https://github.com/elbywan/wretch) - Isomorphic fetch
+* [Zod](https://zod.dev/) - TypeScript-first schema validation
 #### Secrets Management
 * [dotenvx](https://dotenvx.com/) - A better dotenv
 * [@wetlab/from-env-factory](https://github.com/labwet/from-env-factory) - Function that builds env var getters 
@@ -28,6 +31,8 @@ Fullstack things that don't hurt to use
 * [DaisyUI](https://daisyui.com/) - Tailwind CSS component lib
 * [Matcha.css](https://matcha.mizu.sh/) - Drop-in semantic styling library in pure CSS
 * [PicoCSS](https://picocss.com/) - Minimal CSS Framework for semantic HTML
+* [Tamagui](https://tamagui.dev/) - Style React fast with 100% parity on React Native (Tailwind alternative)
+* [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework
 #### Icons
 * [Feather](https://feathericons.com/)
 * [Lucide](https://lucide.dev/)
@@ -36,7 +41,8 @@ Fullstack things that don't hurt to use
 * [Luxon](https://github.com/moment/luxon) - date formatter
 * [Numeral.js](https://github.com/adamwdraper/Numeral-js) - number formatter
 #### React
-* [AG Charts/Grid](https://www.ag-grid.com/charts/) - Chart and Table components
+* [AG Charts/Grid](https://www.ag-grid.com/charts/) - Charts and table components
+* [Block](https://www.blocknotejs.org/) - Block-based rich-text editor
 * [Class Variance Authority](https://github.com/joe-bell/cva) - Sane class name management
 * [clsx](https://github.com/lukeed/clsx) - Lib for conditional class name construction
 * [Fancy Components](https://www.fancycomponents.dev/) - Microinteraction component library
