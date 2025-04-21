@@ -1,11 +1,12 @@
 # Assorted Fullstack
-Fullstack things that don't hurt to use
+Fullstack things that either interest me or haven't hurt to use in the past
 
 ## Tooling
 #### Frameworks, Build Tools & Runtimes
 * [Biome](https://biomejs.dev/) - Format, lint, and more in a fraction of a second
 * [Bun](https://bun.sh/) - Javascript & Typescript runtime
 * [One](https://onestack.dev/) - Unified framework for Web + Native using React
+* [Skip](https://skiplabs.io/) - Build & run services where state updates incrementally
 * [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications
 * [tsup](https://tsup.egoist.dev/) - Bundle your TypeScript library with no config
 * [tsx](https://tsx.is/) - TypeScript runtime
@@ -19,6 +20,7 @@ Fullstack things that don't hurt to use
 * [gql.tada](https://gql-tada.0no.co/) - On-the-fly, automatically typed GraphQL documents
 * [Hono](https://hono.dev/) - Web API framework with support for multiple js runtimes
 * [Kysely](https://github.com/kysely-org/kysely) - SQL query builder
+* [Restate](https://restate.dev/) Write distributed applications that are resilient to failures
 * [tRPC](https://trpc.io/) - Build Typesafe APIs
 * [wretch](https://github.com/elbywan/wretch) - Isomorphic fetch
 * [Zod](https://zod.dev/) - TypeScript-first schema validation
@@ -37,9 +39,9 @@ Fullstack things that don't hurt to use
 * [Feather](https://feathericons.com/)
 * [Lucide](https://lucide.dev/)
 #### Dates, Strings & Numbers
-* [@internationalized/date](https://github.com/adobe/react-spectrum/tree/main/packages/@internationalized/date) - location aware date formatting
-* [Luxon](https://github.com/moment/luxon) - date formatter
-* [Numeral.js](https://github.com/adamwdraper/Numeral-js) - number formatter
+* [@internationalized/date](https://github.com/adobe/react-spectrum/tree/main/packages/@internationalized/date) - Location aware date formatting
+* [Luxon](https://github.com/moment/luxon) - Date formatter
+* [Numeral.js](https://github.com/adamwdraper/Numeral-js) - Number formatter
 #### React
 * [AG Charts/Grid](https://www.ag-grid.com/charts/) - Charts and table components
 * [Block](https://www.blocknotejs.org/) - Block-based rich-text editor
