@@ -5,11 +5,13 @@ Fullstack things that either interest me or haven't hurt to use in the past
 #### Frameworks, Build Tools & Runtimes
 * [Biome](https://biomejs.dev/) - Format, lint, and more in a fraction of a second
 * [Bun](https://bun.sh/) - Javascript & Typescript runtime
+* [Nitro](https://nitro.build/) - Framework for building web servers
 * [One](https://onestack.dev/) - Unified framework for Web + Native using React
 * [Skip](https://skiplabs.io/) - Build & run services where state updates incrementally
 * [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications
 * [tsup](https://tsup.egoist.dev/) - Bundle your TypeScript library with no config
 * [tsx](https://tsx.is/) - TypeScript runtime
+* [Vinxi](https://github.com/nksaraf/vinxi) - Agnostic bundler that combines the power of Vite and Nitro
 * [Vite](https://vite.dev/) - Front-end bundler and dev server
 #### Serverless
 * [Cloudflare Workers](https://workers.cloudflare.com/) - Deploy serverless code instantly
@@ -57,3 +59,5 @@ Fullstack things that either interest me or haven't hurt to use in the past
 * [TanStack Router](https://tanstack.com/router/latest) - Type-safe SPA router
 * [Vaul](https://github.com/emilkowalski/vaul) - Drawer component
 * [Zustand](https://github.com/pmndrs/zustand) - State management
+#### Solid
+* [SolidStart](https://start.solidjs.com/) - Boilerplate for SolidJS apps
